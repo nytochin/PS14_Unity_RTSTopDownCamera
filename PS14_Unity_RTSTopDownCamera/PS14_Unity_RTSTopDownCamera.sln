@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS14_Unity_RTSTopDownCamera.Plugins", "PS14_Unity_RTSTopDownCamera.Plugins.csproj", "{519F0ECA-18CB-05B1-0684-9B4B4ADA28B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS14_Unity_RTSTopDownCamera", "PS14_Unity_RTSTopDownCamera.csproj", "{C1E367A9-CF35-73C3-2292-3CBCB9791A4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS14_Unity_RTSTopDownCamera.Editor.Plugins", "PS14_Unity_RTSTopDownCamera.Editor.Plugins.csproj", "{5AFE4F30-F071-E89C-1152-343C1AD1A628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS14_Unity_RTSTopDownCamera.Editor", "PS14_Unity_RTSTopDownCamera.Editor.csproj", "{F2057FDF-E42D-4A36-CA41-0AC0DB8DA8AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519F0ECA-18CB-05B1-0684-9B4B4ADA28B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519F0ECA-18CB-05B1-0684-9B4B4ADA28B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519F0ECA-18CB-05B1-0684-9B4B4ADA28B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519F0ECA-18CB-05B1-0684-9B4B4ADA28B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1E367A9-CF35-73C3-2292-3CBCB9791A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E367A9-CF35-73C3-2292-3CBCB9791A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E367A9-CF35-73C3-2292-3CBCB9791A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E367A9-CF35-73C3-2292-3CBCB9791A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFE4F30-F071-E89C-1152-343C1AD1A628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFE4F30-F071-E89C-1152-343C1AD1A628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFE4F30-F071-E89C-1152-343C1AD1A628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFE4F30-F071-E89C-1152-343C1AD1A628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2057FDF-E42D-4A36-CA41-0AC0DB8DA8AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2057FDF-E42D-4A36-CA41-0AC0DB8DA8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2057FDF-E42D-4A36-CA41-0AC0DB8DA8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2057FDF-E42D-4A36-CA41-0AC0DB8DA8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

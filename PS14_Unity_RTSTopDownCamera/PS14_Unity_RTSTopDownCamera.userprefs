@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="PS14_Unity_RTSTopDownCamera.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Desert Environment\Example\AutoMoveAndRotate.cs">
+    <Files>
+      <File FileName="Assets\Desert Environment\Example\AutoMoveAndRotate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
